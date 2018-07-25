@@ -9,6 +9,9 @@
 # production
 /build
 
+#tempVS
+Web/.vs/
+
 # misc
 .DS_Store
 .env.local
